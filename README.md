@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/49461213?v=4" alt="Nolvus's GitHub Profile Picture" width="200" />
+  <img src="https://i.imgur.com/dGgshpd.jpg" alt="Nolvus's GitHub Profile Picture" width="200" />
 </div>
 
 # Hi, NOLVUS 👋
