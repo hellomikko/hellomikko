@@ -48,7 +48,7 @@ Here are some of the technologies and tools I've been using recently:
 **Last Repository:**
 - Repository Name: [Sons of the Forest Server Editor](https://github.com/nolvuscodes/SoFServerEditor)
 - Sons of the Forest Dedicated/Server Editor. Try it out https://sofservereditor.netlify.app or https://sofservereditor.vercel.app
-- 
+
 - Stars: ![Stars](https://img.shields.io/github/stars/nolvuscodes/SoFServerEditor?style=social)
 - Forks: ![Forks](https://img.shields.io/github/forks/nolvuscodes/SoFServerEditor?style=social)
 - Release Version: [v1.0.0](https://github.com/nolvuscodes/RSoFServerEditor/releases/tag/v1.0.0)
