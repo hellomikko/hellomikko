@@ -21,8 +21,14 @@ Here are some ideas to get you started:
 
 I'm a passionate software developer and music enthusiast. Welcome to my GitHub profile!
 
-## 🎵 Recent Spotify Activity
- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/djmtechnik)
+## 🎵 Recently Played Music 🎧
+
+<!-- RECENTLY_PLAYED:START -->
+- Song: **Song Name**
+- Artist: **Artist Name**
+- Album: **Album Name**
+<!-- RECENTLY_PLAYED:END -->
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolvuscodes&show_icons=true&count_private=true&hide=issues&theme=radical)
