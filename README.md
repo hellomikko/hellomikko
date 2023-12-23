@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="left">
   <img src="https://i.imgur.com/dGgshpd.jpg" alt="Nolvus's GitHub Profile Picture" width="200" />
 </div>
 
-# Hi, NOLVUS 👋
+# Hi,👋. Im NOLVUS
 
 I'm a passionate software developer and music enthusiast. Welcome to my GitHub profile!
 > "I really wish I could be forever young." - Michael Nolvus Moore / Boy in Space
@@ -31,7 +31,6 @@ I'm a passionate software developer and music enthusiast. Welcome to my GitHub p
 
 ## 🛠️ Technologies, Tools & Favorite Languages
 Here are some of the technologies and tools I've been using recently:
-
 <!--START_SECTION:technologies-->
 <a href="https://github.com/nolvuscodes/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nolvuscodes" />​     
@@ -47,16 +46,16 @@ Here are some of the technologies and tools I've been using recently:
 ## 🌟 Recent Activity
 <!--START_SECTION:activity-->
 **Last Repository:**
-- Repository Name: [Your Repository Name](https://github.com/nolvuscodes/REPO_NAME)
-- Description: Your repository description
-- Stars: ![Stars](https://img.shields.io/github/stars/nolvuscodes/REPO_NAME?style=social)
-- Forks: ![Forks](https://img.shields.io/github/forks/nolvuscodes/REPO_NAME?style=social)
+- Repository Name: [Sons of the Forest Server Editor](https://github.com/nolvuscodes/SoFServerEditor)
+- Sons of the Forest Dedicated/Server Editor. Try it out https://sofservereditor.netlify.app or https://sofservereditor.vercel.app
+- 
+- Stars: ![Stars](https://img.shields.io/github/stars/nolvuscodes/SoFServerEditor?style=social)
+- Forks: ![Forks](https://img.shields.io/github/forks/nolvuscodes/SoFServerEditor?style=social)
+- Release Version: [v1.0.0](https://github.com/nolvuscodes/RSoFServerEditor/releases/tag/v1.0.0)
+- Release Date: 2023-12-22
 
-
-**Last Release:**
-- Release Version: [v1.0.0](https://github.com/nolvuscodes/REPO_NAME/releases/tag/v1.0.0)
-- Release Date: YYYY-MM-DD
-- Release Notes: Brief description of the release.
+**Release Notes:** 
+>Disclaimer: Before you get started, just noted, that theres nothing to execute. Therefore you can just launch the simple index.html file. The rest of the files will help it. For advanced development for yourself, you can load this in vsCode. I do not support your decision if you should make any edits.
 
 ## 📫 Contact Me
 Feel free to reach out to me:
