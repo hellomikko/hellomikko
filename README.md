@@ -26,7 +26,7 @@ I'm a passionate software developer and music enthusiast. Welcome to my GitHub p
 
  <!--START_SECTION:activity-->
 ## 🎵 Recently Played Music 🎧
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=djmtechnik&1={count}&unique={true|1|on|yes})​       ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hellomikko)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hellomikko&show_user=header&footer_style=normal_stats)     ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=djmtechnik&unique=true)
  <!--END_SECTION:activity-->
 
 ## 🛠️ Technologies, Tools & Favorite Languages
