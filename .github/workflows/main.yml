@@ -1,0 +1,14 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Node.js script
+        run: |
+          node update-readme.js
