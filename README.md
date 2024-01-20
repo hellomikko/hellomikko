@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <div align="left">
   <img src="https://i.imgur.com/C7oRBY2.png" alt="Nolvus's GitHub Profile Picture" width="200" />
 </div>
@@ -36,7 +38,7 @@ Here are some of the technologies and tools I've been using recently:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nolvuscodes" />​     
 </a>
 <a href="https://github.com/nolvuscodes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nolvuscodes&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nolvuscodes&layout=compact&langs_count=16&card_width=320" />
 </a>
 
 <!--END_SECTION:technologies-->
