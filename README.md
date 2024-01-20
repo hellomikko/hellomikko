@@ -35,10 +35,9 @@ Here are some of the technologies and tools I've been using recently:
 <a href="https://github.com/nolvuscodes/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nolvuscodes" />​     
 </a>
-<!-- <a href="https://github.com/nolvuscodes/convoychat">
+<a href="https://github.com/nolvuscodes/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nolvuscodes&layout=compact&langs_count=8&card_width=320" />
-</a> -->
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nolvuscodes&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=nolvuscodes)
+</a>
 
 <!--END_SECTION:technologies-->
 
