@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/C7oRBY2.png" alt="Nolvus's GitHub Profile Picture" width="200" />
 </div>
 
-# Hi,👋. Im NOLVUS
+# Hi,👋. Im Mikko
 
 I'm a passionate software developer and music enthusiast. Welcome to my GitHub profile!
 > "I really wish I could be forever young." - Michael Nolvus Moore / Boy in Space
