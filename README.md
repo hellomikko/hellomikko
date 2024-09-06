@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # Hi,👋. Im Mikko
 
 I'm a passionate software developer and music enthusiast. Welcome to my GitHub profile!
-> "I really wish I could be forever young." - Michael Nolvus Moore / Boy in Space
+> "I really wish I could be forever young." - Michael Moore / Boy in Space
 
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
@@ -35,11 +35,11 @@ I'm a passionate software developer and music enthusiast. Welcome to my GitHub p
 ## 🛠️ Technologies, Tools & Favorite Languages
 Here are some of the technologies and tools I've been using recently:
 <!--START_SECTION:technologies-->
-<a href="https://github.com/nolvuscodes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nolvuscodes" />​     
+<a href="https://github.com/hellomikko/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hellomikko" />​     
 </a>
 <a href="https://github.com/nolvuscodes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nolvuscodes&layout=compact&langs_count=16&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellomikko&layout=compact&langs_count=16&card_width=320" />
 </a>
 
 <!--END_SECTION:technologies-->
@@ -48,10 +48,10 @@ Here are some of the technologies and tools I've been using recently:
 ## 🌟 Recent Activity
 <!--START_SECTION:activity-->
 **Last Repository:**
-- Repository Name: [Sons of the Forest Server Editor](https://github.com/nolvuscodes/SoFServerEditor)
+- Repository Name: [Sons of the Forest Server Editor](https://github.com/hellomikko/SoFServerEditor)
 - Sons of the Forest Dedicated/Server Editor. Try it out https://sofservereditor.netlify.app or https://sofservereditor.vercel.app
 
-- Release Version: [v1.0.0](https://github.com/nolvuscodes/RSoFServerEditor/releases/tag/v1.0.0)
+- Release Version: [v1.0.0](https://github.com/hellomikko/RSoFServerEditor/releases/tag/v1.0.0)
 - Release Date: 2023-12-22
 
 **Release Notes:** 
@@ -62,7 +62,7 @@ Feel free to reach out to me:
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://x.com/phaya_naga)](https://x.com/phaya_naga)
 [![Discord](https://img.shields.io/badge/Discord-Message_Me-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/625796542456004639)](https://discord.com/users/625796542456004639)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nolvuscodes)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hellomikko)
 
 
 Thank you for visiting my GitHub profile! 😄
