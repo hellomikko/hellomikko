@@ -32,18 +32,6 @@ I'm a passionate software developer and music enthusiast. Welcome to my GitHub p
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=djmtechnik&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
  <!--END_SECTION:activity-->
 
-## 🛠️ Technologies, Tools & Favorite Languages
-Here are some of the technologies and tools I've been using recently:
-<!--START_SECTION:technologies-->
-<a href="https://github.com/hellomikko/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hellomikko" />​     
-</a>
-<a href="https://github.com/hellomikko/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellomikko&layout=compact&langs_count=16&card_width=320" />
-</a>
-
-<!--END_SECTION:technologies-->
-
 
 ## 🌟 Recent Activity
 <!--START_SECTION:activity-->
