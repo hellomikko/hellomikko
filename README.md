@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 
 
-<div align="left">
+<!--<div align="left">
   <img src="https://i.imgur.com/C7oRBY2.png" alt="Nolvus's GitHub Profile Picture" width="200" />
 </div>
+-->
 
 # Hi,👋. Im Mikko
 
