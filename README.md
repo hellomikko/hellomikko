@@ -30,7 +30,7 @@ I'm a passionate software developer and music enthusiast. Welcome to my GitHub p
  <!--START_SECTION:activity-->
 ## 🎵 Recently Played Music 🎧
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hellomikko&show_user=header&footer_style=normal_stats)     <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=djmtechnik&unique=true) -->
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=spiritbocs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=djmtechnik&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
  <!--END_SECTION:activity-->
 
 
