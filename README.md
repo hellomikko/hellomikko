@@ -48,7 +48,6 @@ I'm a passionate software developer and music enthusiast. Welcome to my GitHub p
 
 ## 📫 Contact Me
 Feel free to reach out to me:
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white&link=https://x.com/phaya_naga)](https://x.com/phaya_naga)
 [![Discord](https://img.shields.io/badge/Discord-Message_Me-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/625796542456004639)](https://discord.com/users/625796542456004639)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hellomikko)
